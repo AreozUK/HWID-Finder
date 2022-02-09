@@ -6,7 +6,7 @@ HWID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX
 
 ## How to use:
 * Run the file and use the Grab HWID Button which will then display your HWID.
-* Or you can use the Function I used to Grab a HWID and use it for yourself
+* Or you can use the Function I used to Grab the HWID and use it for yourself
 
 ## Created and Compiled In:
 
