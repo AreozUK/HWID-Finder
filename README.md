@@ -12,6 +12,10 @@ HWID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX
 
 * [.Net 4.7.2](https://dotnet.microsoft.com/en-us/download)
 
+## Virus Detections
+
+* I have No clue on why Windows Defender Flags this application as a Virus, If i were to guess though it may be due to me embeddeding my Guna2 DLL Using Costura Fody or maybe something to do with the GrabHWID Function 
+
 ## Author(s)
 
 * **[Areoz](https://github.com/AreozUK/)**
