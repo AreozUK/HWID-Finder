@@ -14,4 +14,4 @@ HWID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX
 
 ## Author(s)
 
-* **[AreozUK](https://github.com/AreozUK/)**
+* **[Areoz](https://github.com/AreozUK/)**
