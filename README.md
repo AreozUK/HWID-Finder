@@ -1,7 +1,7 @@
 # HWID-Finder
 A basic HWID Finder for when you need it.
 
-The HWID Will Display the Indentifier In this Format Below:
+The HWID Will Display the Indentifier In this Format: 
 HWID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX
 
 ## How to use:
